@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="Software development for currency and cryptocurrencys analysis">Maxmin</a><br>
+        Maxmin<br>
     </b>
- :collision:ReactJS Web, for a traveling enterprise.:collision:<br>
+ :collision:Software development for currencys and cryptocurrencys analysis:collision:<br>
 
 </h1>
 
